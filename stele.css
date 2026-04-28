@@ -1,0 +1,47 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    
+    background-color: rgb(255, 253, 254);
+    background-image: url(https://veja.abril.com.br/wp-content/uploads/2017/01/enrolados_mat3.jpg?quality=70&strip=all&w=720&crop=1);
+    text-align: left;
+    background-attachment: rgb(209, 98, 159);
+}
+
+.main {
+    width: 60%;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    background-color: black;
+    border-radius: 20px;
+    border: 1px solid rgb(202, 100, 134);
+    color: rgb(216, 136, 185);
+}
+
+img {
+    width: 100%;
+    height: auto;
+    position: relative;
+    border-radius: 20px;
+    border: 1px solid rgb(238, 26, 143);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(197, 154, 168);
+}
+
+h1 {
+    padding: 10px;
+}
